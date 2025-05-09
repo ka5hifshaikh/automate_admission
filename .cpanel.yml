@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/developer2021/public_html/git_test/
-    - /bin/cp * $DEPLOYPATH
